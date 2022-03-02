@@ -1,2 +1,5 @@
-# alx-system_engineering-devops
-Where am I?
+# 0x00. Shell, basics
+
+Different Shell scripts for ALX project
+
+
